@@ -1,6 +1,13 @@
 # Flutter Blog App
 ## Description
 The Blog App is an hybrid blogging application developer using flutter. This application contains all the necessary functionality required in blogging application.
+### Login Credentials
+- User 1
+  - Email :- abhishvek@gmail.com
+  - Password :- abhi1234
+- User 2
+  - Email :- anasbidiwala2@gmail.com
+  - Password :- 12345678
 
 ## Tech Stack
 - Flutter Version 2.5.1
