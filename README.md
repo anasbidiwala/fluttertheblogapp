@@ -29,6 +29,7 @@ The Blog App is an hybrid blogging application developer using flutter. This app
 - Cache Manager Class - A Singleton class which is responsible for managing cache with shared preference.
   - Declared in lib/service/cache_manager_service.dart
 - A Singleton classes were used for different firebase related task i.e Firebase Authentication,Firebase Storage, Firebase Storage
+- WYSIWYG (WHAT YOU SEE IS WHAT YOU GET) Editor is used for blog content.
 - Responsive UI with Media Query Class
 - Minimum and highly optimised code rebuild with Streams and Stream Builders
 - Clean Architecture
