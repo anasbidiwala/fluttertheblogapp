@@ -26,3 +26,15 @@ The Blog App is an hybrid blogging application developer using flutter. This app
 - Minimum and highly optimised code rebuild with Streams and Stream Builders
 - Clean Architecture
 - Reusable code for almost every task
+
+## Screenshots
+
+![This is an image](https://github.com/anasbidiwala/fluttertheblogapp/blob/main/ss1.jpg)
+![This is an image](https://github.com/anasbidiwala/fluttertheblogapp/blob/main/ss2.jpg)
+![This is an image](https://github.com/anasbidiwala/fluttertheblogapp/blob/main/ss3.jpg)
+![This is an image](https://github.com/anasbidiwala/fluttertheblogapp/blob/main/ss4.jpg)
+![This is an image](https://github.com/anasbidiwala/fluttertheblogapp/blob/main/ss5.jpg)
+![This is an image](https://github.com/anasbidiwala/fluttertheblogapp/blob/main/ss6.jpg)
+![This is an image](https://github.com/anasbidiwala/fluttertheblogapp/blob/main/ss7.jpg)
+![This is an image](https://github.com/anasbidiwala/fluttertheblogapp/blob/main/ss8.jpg)
+
